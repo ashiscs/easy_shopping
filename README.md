@@ -1,6 +1,6 @@
 # easy_shopping
 
-## A shopping Android App for the customers and a Electron Desktop App for the billing section to ease the process of payments.
+## A shopping Android App for the customers and an Electron Desktop App for the billing section to ease the process of payments.
 ## Why this project?
 - The main aim of this project is to reduce the queuing delays faced by customers while shopping in a mall or departmental store.
 ### Description of the mobile app
