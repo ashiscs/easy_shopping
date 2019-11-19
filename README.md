@@ -12,3 +12,20 @@
 ### Description of the desktop app
 - The desktop app will take QR Code as an input from customer to get details of the cart.
 - Billing may be initiated by the staffs.
+
+### To Use
+```bash
+- # Clone this repository
+git clone https://github.com/abhi211199/easy_shopping.git
+- # Go to repository
+cd easy_shopping
+- # To work on Android App,  
+cd android_app 
+Open the app using Android Studio
+- # To work on Desktop App
+cd desktop_app
+npm install --save-dev electron
+npm start
+```
+### Contributing
+<i>Join this Slack Channel @ https://join.slack.com/t/easyshoppingworkspace/shared_invite/enQtODM5Mzk5MjMzMjg0LTQwYWViOWI1NWZlYzUyNTVhYmJiNjk5ZGFiYTI2YzFlMmNjMzU3ZjQ2MjRiMTUxYmY1ODRmYzUwNGE1ODMzNzM to discuss the project.</i>
