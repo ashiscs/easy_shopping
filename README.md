@@ -6,7 +6,7 @@
 ### Description of the mobile app
 - The mobile app is intended for the customers.
 - The customers need to 'authenticate' them.
-- The customers will 'scan' the 'barcodes' of products which gets added up to their basket and as well as to virtual cart.
+- The customers will `scan` the `barcodes` of products which gets added up to their basket and as well as to virtual cart.
 - When the customer is done with shopping, billing may be done.
 
 ### Description of the desktop app
